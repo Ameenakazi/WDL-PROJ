@@ -31,6 +31,6 @@ function fn1()
     }
    else
     {
-        window.location.assign("index1.html");
+        window.location.assign("login.html");
     }
     }
